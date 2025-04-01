@@ -7,7 +7,7 @@ xhofe/alist:latest
 python:alpine3.19
 alpine
 portainer/portainer:latest
-ollama:0.5.10
-redis:6.2
-redis-commander:0.8.0
-pgvector:v0.5.0
+ollama:latest
+redis:latest
+redis-commander:latest
+pgvector:latest
