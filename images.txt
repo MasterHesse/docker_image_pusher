@@ -10,5 +10,5 @@ portainer/portainer:latest
 
 ollama/ollama:0.5.10
 redis:6.2
-rediscommander/redis-commander:0.8.0
+rediscommander/redis-commander:latest
 pgvector/pgvector:v0.5.0
