@@ -8,6 +8,7 @@ python:alpine3.19
 alpine
 portainer/portainer:latest
 
-redis:latest
-redis-commander:latest
-pgvector:latest
+ollama/ollama:0.5.10   # Ollama 的官方镜像（用户/仓库格式）
+redis:6.2            # Redis 官方镜像（直接名称）
+rediscommander/redis-commander:0.8.0  # Redis Commander 镜像
+pgvector/pgvector:v0.5.0               # PGVector 镜像
