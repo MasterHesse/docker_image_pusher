@@ -1,3 +1,1 @@
-
-
-masterhesse/ai-rag-knowledge-app:1.2
+masterhesse/ai-rag-knowledge-app:1.3
