@@ -1,1 +1,1 @@
-masterhesse/ai-rag-knowledge-app:1.4
+pgadmin4:9.1.0
