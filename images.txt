@@ -1,1 +1,1 @@
-pgadmin4:9.1.0
+dpage/pgadmin4:9.1.0
