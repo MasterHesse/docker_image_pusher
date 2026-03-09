@@ -1,6 +1,2 @@
-pgvector/pgvector:pg16
-neo4j:5
-redis:7-alpine
-rabbitmq:3-management
-masterhesse/diglearn-frontend:1.0.0	
-masterhesse/diglearn-backend:1.0.0	
+masterhesse/diglearn-frontend:1.0.1
+
