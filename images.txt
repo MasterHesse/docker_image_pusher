@@ -1,2 +1,2 @@
-masterhesse/diglearn-frontend:1.0.1
+masterhesse/diglearn-frontend:1.0.2
 
